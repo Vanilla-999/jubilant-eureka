@@ -1,0 +1,2 @@
+body { display:flex; justify-content:center; align-items:center; flex-direction:column; font-family:sans-serif; background:#222; color:white;}
+canvas { background:#111; margin-top:20px; border:2px solid white; border-radius:10px; }
